@@ -1,8 +1,7 @@
 # tugas praktikum
 
-nama : Andhika Prima Hutama <br>
-nim  : 20230140239 <br>
-mk   : Pemrograman web framework
+nama : Panji Pranantya <br>
+nim  : 20230140230 <br>
 ---
 ## tampilan
 tampilan `/about`

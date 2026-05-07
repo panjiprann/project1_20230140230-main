@@ -2,7 +2,7 @@
 
 ## kelas E
 
-### Andhika Prima Hutama - 20230140239
+### Panji Pranantya - 20230140230
 
 ### user
 
