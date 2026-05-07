@@ -1,0 +1,8 @@
+pages product
+![alt text](image5/image.png)
+
+add product
+![alt text](image5/image-1.png)
+
+edir product
+![alt text](image6/image.png)
